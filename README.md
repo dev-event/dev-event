@@ -3,11 +3,7 @@
 <p><em>React Native Developer at <a href="https://mu.se/">Muse Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/dev-event”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
