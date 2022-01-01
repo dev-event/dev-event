@@ -10,7 +10,10 @@
 ```javascript
 const aliaksei = {
   code: [Javascript, Typescript, Java, Swift],
-  tools: [React-Native, Redux, Redux-Saga, Styled-Components, i18n, React Navigation 5 and other...]
+  tools: [React-Native, Redux, Redux-Saga, Styled-Components],
+  social: {
+    <a href="https://mu.se/">https://www.linkedin.com/in/dev-event/</a>
+  }
 }
 ```
 
