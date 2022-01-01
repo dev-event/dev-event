@@ -12,7 +12,7 @@ const aliaksei = {
   code: [Javascript, Typescript, Java, Swift],
   tools: [React-Native, Redux, Redux-Saga, Styled-Components],
   social: {
-    <a href="https://www.linkedin.com/in/dev-event/">LinkedIn</a>
+     LinkedIn: https://www.linkedin.com/in/dev-event
   }
 }
 ```
