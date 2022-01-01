@@ -9,8 +9,8 @@
 
 ```javascript
 const aliaksei = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+  code: [Javascript, Typescript, Java, Swift],
+  tools: [React-Native, Redux, Redux-Saga, Styled-Components, i18n, React Navigation 5 and other...]
 }
 ```
 
