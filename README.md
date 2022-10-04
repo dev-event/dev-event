@@ -1,4 +1,5 @@
-<h2> Hi, I'm Aliaksei Petrusevich! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Aliaksei! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p>I am a passionate, successful Cross-Platform Mobile Developer with more than 3 years of experience. I have hands-on experience in developing scalable and responsive mobile applications, using modern software design techniques. I love working in environments where my skills can be consistently challenged to not only improve but revolutionise products or services. Highly motivated individual driven by passions and dreams. A talented leader with unique ideas and a history of successful contributions in the field.</p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>React Native Developer at <a href="https://mu.se/">Muse Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -9,8 +10,9 @@
 
 ```javascript
 const aliaksei = {
-  code: [Javascript, Typescript, Java, Swift],
-  tools: [React-Native, Redux, Redux-Saga, Styled-Components],
+  stack: [React-Native, Flutter, Node.js],
+  tools: [MobX, Redux, Redux-Saga, Styled-Components, i18next],
+  language: [Swift, Java, TypeScript]
   social: {
      LinkedIn: https://www.linkedin.com/in/dev-event
   }
