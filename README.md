@@ -9,9 +9,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const aliaksei = {
+const profile = {
   stack: [React-Native, Flutter, Node.js],
-  tools: [MobX, Redux, Redux-Saga, Styled-Components, i18next],
+  tools: [MobX, Redux, Redux-Saga, Styled-Components, Reanimated, i18next, Native Modules/Component, RESTApi/JSONApi, Swagger, Socket.IO],
   language: [Swift, Java, TypeScript]
   social: {
      LinkedIn: https://www.linkedin.com/in/dev-event
